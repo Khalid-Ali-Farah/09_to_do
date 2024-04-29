@@ -1,9 +1,9 @@
 # To Do List App
 
 
-To Do List App is 
+To Do List App is an app for creating to-do lists that helps you stay organized.
 
-## Clima App Preview
+## To Do List App App Preview
 
 ![To Do List App](todo.gif)
 
