@@ -5,7 +5,7 @@ To Do List App is
 
 ## Clima App Preview
 
-![To Do List App](to_do.gif)
+![To Do List App](todo.gif)
 
 
 
