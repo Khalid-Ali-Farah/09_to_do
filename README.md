@@ -1,16 +1,18 @@
-# to_do
+# To Do List App
 
-A new Flutter project.
 
-## Getting Started
+To Do List App is 
 
-This project is a starting point for a Flutter application.
+## Clima App Preview
 
-A few resources to get you started if this is your first Flutter project:
+![To Do List App](to_do.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Installation
+
+To install To Do List App, you need to have Flutter installed on your system.
+
+
