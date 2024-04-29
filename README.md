@@ -3,7 +3,7 @@
 
 To Do List App is an app for creating to-do lists that helps you stay organized.
 
-## To Do List App App Preview
+## To Do List App Preview
 
 ![To Do List App](todo.gif)
 
